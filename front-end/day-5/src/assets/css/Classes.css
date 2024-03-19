@@ -1,0 +1,11 @@
+.disabled {
+  color: #6c757d; /* Adjust the color to make it appear disabled */
+  pointer-events: none;
+  letter-spacing: 2px; /* Prevent interactions with the text */
+}
+.class-h2{
+    color:black;
+    font-weight: lighter;
+    letter-spacing: 5px;
+    font-size: 40px;
+}
